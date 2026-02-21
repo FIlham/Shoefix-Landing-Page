@@ -275,10 +275,6 @@ Access in code with `import.meta.env.VITE_API_URL`
 - The project uses module-based imports with `@` alias pointing to `src/`
 - Vite ensures instant HMR for rapid development iteration
 
-## 📄 License
-
-[Add your license information here]
-
 ## 👥 Support
 
 For issues or questions, please open an issue in the repository or contact the development team.
